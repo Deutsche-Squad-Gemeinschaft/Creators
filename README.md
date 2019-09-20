@@ -11,3 +11,8 @@
 All files in this repository are available on the GitLab web interface. In order to use git to manage the repository you will need the following software (Name (Debian-Package)):
 *  GIT (git)
 *  Git LFS (git-lfs)
+
+## Contributors
+Special thanks to all listed Members
+*  ]B[S Rasaka
+*  [1JGKP] Vision
